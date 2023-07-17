@@ -28,3 +28,7 @@ This design report provides an overview of the design and key features of my mil
 **Known Issues**
 - No validation or error handling for form inputs: The application currently lacks validation and error handling for form inputs, such as ensuring the correctness of numeric values and displaying appropriate error messages.
 - Potential accessibility improvements: The application may benefit from further accessibility enhancements, such as providing labels for form inputs, to ensure a better user experience for individuals with disabilities.
+  
+**Loom Video Link**
+- Part 1 : https://www.loom.com/share/87f85688aa514b25bd7ba3355cf027c5
+-  Part 2 : https://www.loom.com/share/5177513f0cc44f53be640b045d0da0c2
