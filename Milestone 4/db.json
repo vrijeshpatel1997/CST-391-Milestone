@@ -1,0 +1,45 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "Products": [
+    {
+      "productName": "Apple macbook",
+      "productPrice": "1500",
+      "productQuantity": "1",
+      "id": 1
+    },
+    {
+      "productName": "calculator",
+      "productPrice": "44",
+      "productQuantity": "1",
+      "id": 2
+    },
+    {
+      "productName": "Gaming Mouse ",
+      "productPrice": "200",
+      "productQuantity": "1",
+      "id": 3
+    },
+    {
+      "productName": "Ipad ",
+      "productPrice": "600",
+      "productQuantity": "4",
+      "id": 4
+    }
+  ]
+}
